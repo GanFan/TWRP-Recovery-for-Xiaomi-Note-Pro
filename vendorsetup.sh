@@ -1,0 +1,2 @@
+add_lunch_combo omni_notepro-userdebug
+add_lunch_combo omni_notepro-eng
