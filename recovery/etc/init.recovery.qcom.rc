@@ -69,4 +69,4 @@ on post-fs
     # Always start adbd on userdebug and eng builds
     write /sys/class/android_usb/android0/enable 1
     start adbd
-    
+    start chargeled
